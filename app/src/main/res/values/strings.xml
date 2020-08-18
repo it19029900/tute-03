@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tute03</string>
+    <string name="noone">No 1</string>
+    <string name="No_2" />
+    <string name="btnOK">OK</string>
+    <string name="lbl1"></string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+</resources>
